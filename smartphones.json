@@ -1,0 +1,332 @@
+[
+    {
+        "name": "iPhone 14 Pro 6GB/128GB", 
+        "price": 119999, 
+        "RAM": 6, 
+        "ROM": 128, 
+        "screen_diagonal": 6.1, 
+        "camera": 72, 
+        "battery_capacity": 3200, 
+        "operating_system": "iOS"
+    },
+    {
+        "name": "iPhone 14 Pro 6GB/256GB", 
+        "price": 132499, 
+        "RAM": 6, 
+        "ROM": 256, 
+        "screen_diagonal": 6.1, 
+        "camera": 72, 
+        "battery_capacity": 3200, 
+        "operating_system": "iOS"
+    },
+    {
+        "name": "iPhone 13 4GB/128GB", 
+        "price": 69999, 
+        "RAM": 4, 
+        "ROM": 128, 
+        "screen_diagonal": 6.1, 
+        "camera": 24, 
+        "battery_capacity": 3265, 
+        "operating_system": "iOS"
+    },
+    {
+        "name": "iPhone 13 4GB/256GB", 
+        "price": 77999, 
+        "RAM": 4, 
+        "ROM": 256, 
+        "screen_diagonal": 6.1, 
+        "camera": 24, 
+        "battery_capacity": 3265, 
+        "operating_system": "iOS"
+    },
+    {
+        "name": "iPhone Xr 3GB/128GB",
+        "price": 34999, 
+        "RAM": 3, 
+        "ROM": 128, 
+        "screen_diagonal": 6.1, 
+        "camera": 12, 
+        "battery_capacity": 2942, 
+        "operating_system": "iOS"
+    },
+    {
+        "name": "Samsung Galaxy S22 8GB/128GB",
+        "price": 65499, 
+        "RAM": 8, 
+        "ROM": 128, 
+        "screen_diagonal": 6.1, 
+        "camera": 72, 
+        "battery_capacity": 3700, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy S22 8GB/256GB",
+        "price": 70499, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.1, 
+        "camera": 72, 
+        "battery_capacity": 3700, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi 12T 8GB/128GB", 
+        "price": 45999, 
+        "RAM": 8, 
+        "ROM": 128, 
+        "screen_diagonal": 6.67, 
+        "camera": 118, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi 12T 8GB/256GB", 
+        "price": 50999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.67, 
+        "camera": 118, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "OnePlus 10 Pro 12GB/256GB", 
+        "price": 67499, 
+        "RAM": 12, 
+        "ROM": 256, 
+        "screen_diagonal": 6.7, 
+        "camera": 106, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme GT Neo 3T 8GB/128GB", 
+        "price": 34999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.62, 
+        "camera": 74, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme GT Neo 3T 8GB/256GB", 
+        "price": 37999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.62, 
+        "camera": 74, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Google Pixel 6a 6GB/128GB", 
+        "price": 35999, 
+        "RAM": 6, 
+        "ROM": 128, 
+        "screen_diagonal": 6.1, 
+        "camera": 24.2, 
+        "battery_capacity": 4410, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi 12X 8GB/128GB", 
+        "price": 49999, 
+        "RAM": 8, 
+        "ROM": 128, 
+        "screen_diagonal": 6.28, 
+        "camera": 68, 
+        "battery_capacity": 4500, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi 12X 8GB/256GB", 
+        "price": 54999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.28, 
+        "camera": 68, 
+        "battery_capacity": 4500, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "HUAWEI P50 Pro 8GB/256GB", 
+        "price": 89999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.6, 
+        "camera": 154, 
+        "battery_capacity": 4360, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Poco F4 GT 8GB/128GB", 
+        "price": 52999, 
+        "RAM": 8, 
+        "ROM": 128, 
+        "screen_diagonal": 6.67, 
+        "camera": 74, 
+        "battery_capacity": 4700, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Poco F4 GT 12GB/256GB", 
+        "price": 59999, 
+        "RAM": 12, 
+        "ROM": 256, 
+        "screen_diagonal": 6.67, 
+        "camera": 74, 
+        "battery_capacity": 4700, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Poco F4 8GB/256GB", 
+        "price": 35999, 
+        "RAM": 8, 
+        "ROM": 256, 
+        "screen_diagonal": 6.67, 
+        "camera": 74, 
+        "battery_capacity": 4500, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi Redmi 9C (NFC) 3GB/32GB", 
+        "price": 7999, 
+        "RAM": 3, 
+        "ROM": 32, 
+        "screen_diagonal": 6.53, 
+        "camera": 15, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi Redmi 9C (NFC) 3GB/64GB", 
+        "price": 8499, 
+        "RAM": 3, 
+        "ROM": 64, 
+        "screen_diagonal": 6.53, 
+        "camera": 15, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy A23 4GB/64GB", 
+        "price": 16999, 
+        "RAM": 4, 
+        "ROM": 64, 
+        "screen_diagonal": 6.6, 
+        "camera": 59, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy A23 4GB/128GB", 
+        "price": 19999, 
+        "RAM": 4, 
+        "ROM": 128, 
+        "screen_diagonal": 6.6, 
+        "camera": 59, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Poco M5 4GB/64GB", 
+        "price": 12999, 
+        "RAM": 4, 
+        "ROM": 64, 
+        "screen_diagonal": 6.58,
+        "camera": 54,
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Poco M5 4GB/128GB", 
+        "price": 14999, 
+        "RAM": 4, 
+        "ROM": 128, 
+        "screen_diagonal": 6.58,
+        "camera": 54,
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme C30 2GB/32GB", 
+        "price": 5499, 
+        "RAM": 2, 
+        "ROM": 32, 
+        "screen_diagonal": 6.5, 
+        "camera": 8, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme C30 2GB/64GB", 
+        "price": 7999, 
+        "RAM": 2, 
+        "ROM": 64, 
+        "screen_diagonal": 6.5, 
+        "camera": 8, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Xiaomi Redmi 9A 2GB/32GB", 
+        "price": 6999, 
+        "RAM": 2, 
+        "ROM": 32, 
+        "screen_diagonal": 6.53, 
+        "camera": 13, 
+        "battery_capacity": 50000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy A13 3GB/32GB", 
+        "price": 10999, 
+        "RAM": 3, 
+        "ROM": 32, 
+        "screen_diagonal": 6.6, 
+        "camera": 58, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy A13 4GB/64GB", 
+        "price": 13999, 
+        "RAM": 4, 
+        "ROM": 64, 
+        "screen_diagonal": 6.6, 
+        "camera": 58, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "Samsung Galaxy A13 4GB/128GB", 
+        "price": 15999, 
+        "RAM": 4, 
+        "ROM": 128, 
+        "screen_diagonal": 6.6, 
+        "camera": 58, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme C35 4GB/64GB", 
+        "price": 11999, 
+        "RAM": 4, 
+        "ROM": 64, 
+        "screen_diagonal": 6.6, 
+        "camera": 52.03, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    },
+    {
+        "name": "realme C35 4GB/128GB", 
+        "price": 13999, 
+        "RAM": 4, 
+        "ROM": 128, 
+        "screen_diagonal": 6.6, 
+        "camera": 52.03, 
+        "battery_capacity": 5000, 
+        "operating_system": "Android"
+    }
+]
