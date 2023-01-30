@@ -328,5 +328,15 @@
         "camera": 52.03, 
         "battery_capacity": 5000, 
         "operating_system": "Android"
+    },
+    {
+        "name": "Honor x8 6GB/128GB", 
+        "price": 16899, 
+        "RAM": 6, 
+        "ROM": 128, 
+        "screen_diagonal": 6.7, 
+        "camera": 73, 
+        "battery_capacity": 4000, 
+        "operating_system": "Android"
     }
 ]
